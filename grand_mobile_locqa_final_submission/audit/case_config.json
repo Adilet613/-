@@ -1,0 +1,10 @@
+{
+  "locale": "kk",
+  "allowed_blank_keys": [
+    "bigCatchFishActivityInfoPrefix",
+    "containersDatetime",
+    "dragRacingLevelUpgradeTitle1",
+    "festivalGameConfirmTargetPrefix"
+  ],
+  "include_style_candidates": false
+}

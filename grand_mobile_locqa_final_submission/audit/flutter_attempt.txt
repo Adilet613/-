@@ -1,0 +1,4 @@
+Command: bash scripts/run_flutter_checks.sh
+Exit code: 2
+
+Flutter SDK is required and must be in PATH.

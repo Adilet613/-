@@ -1,0 +1,18 @@
+{
+  "package_status": "ready_for_submission",
+  "human_verified_strings": 144,
+  "human_verified_findings": 145,
+  "ai_adjudicated_strings": 144,
+  "findings": 145,
+  "flutter_generation": "not run; SDK absent and official archive metadata endpoint returned HTTP 404 in this environment",
+  "rendered_game_layout": "not verified: no client source, real font, viewport or widget constraints",
+  "format_migrations": [
+    "inventoryEquipped@description -> @inventoryEquipped.description",
+    "UNeedHelp -> uNeedHelp",
+    "TowConfirmDesc -> towConfirmDesc"
+  ],
+  "resource_aliases_require_game_caller_migration": true,
+  "note": "Raw original handout is preserved outside this package. Full source data in flutter_smoke/ is private; publish only cli/.",
+  "pytest_tests_passed": 89,
+  "pytest_subtests_passed": 15
+}

@@ -1,0 +1,40 @@
+{
+  "ru": [
+    {
+      "from": "inventoryEquipped@description",
+      "to": "@inventoryEquipped.description",
+      "kind": "metadata_migration"
+    },
+    {
+      "from": "UNeedHelp",
+      "to": "uNeedHelp",
+      "kind": "resource_id_alias",
+      "requires_caller_update": true
+    },
+    {
+      "from": "TowConfirmDesc",
+      "to": "towConfirmDesc",
+      "kind": "resource_id_alias",
+      "requires_caller_update": true
+    }
+  ],
+  "kk": [
+    {
+      "from": "inventoryEquipped@description",
+      "to": "@inventoryEquipped.description",
+      "kind": "metadata_migration"
+    },
+    {
+      "from": "UNeedHelp",
+      "to": "uNeedHelp",
+      "kind": "resource_id_alias",
+      "requires_caller_update": true
+    },
+    {
+      "from": "TowConfirmDesc",
+      "to": "towConfirmDesc",
+      "kind": "resource_id_alias",
+      "requires_caller_update": true
+    }
+  ]
+}

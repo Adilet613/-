@@ -1,0 +1,1736 @@
+{
+  "version": 1,
+  "source_sha256": "ed233b9bb3eb40a191255a8d940434bb16c429c713894579550681551660d499",
+  "target_sha256": "c5c0053d71b5749300306ae86043139995c63b357fd4ec19e79cbc3c865053ae",
+  "entries": [
+    {
+      "key": "laAccountEmptyHelpTopText1",
+      "source": "Здесь будет отображаться статистика\nваших персонажей",
+      "original": "",
+      "translation": "Мұнда кейіпкерлеріңіздің\nстатистикасы көрсетіледі",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "laYouNeedToLinkThisSocialNetworkToAccount",
+      "source": "Вам необходимо привязать данную социальную сеть к аккаунту",
+      "original": "",
+      "translation": "Бұл әлеуметтік желіні аккаунтыңызға байланыстыру қажет",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "inventory",
+      "source": "Инвентарь",
+      "original": "",
+      "translation": "Инвентарь",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "invDisassemble",
+      "source": "РАЗОБРАТЬ",
+      "original": "",
+      "translation": "БӨЛШЕКТЕУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "tablet_auc_all_your_bets",
+      "source": "Всего ваших ставок",
+      "original": "",
+      "translation": "Бәстеріңіздің саны",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "bankConfirmApartment",
+      "source": "Вы действительно хотите оплатить недвижимость: Квартира\nна сумму",
+      "original": "",
+      "translation": "Пәтер үшін төлем жасағыңыз келетініне сенімдісіз бе?\nТөлем сомасы:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "piggyGetBy",
+      "source": "Снять за",
+      "original": "",
+      "translation": "Мына бағаға алу:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "newYearInfoDesc2",
+      "source": "За задания можно получить опыт для Сезонного Пропуска и Леденцы.\n\nЕжедневные задания обновляются каждый день, а также их можно обновить через специальный бустер.\n\nТакже при приобретении Сезонного пропуска открывается доступ к специальным заданиям.",
+      "original": "",
+      "translation": "Тапсырмаларды орындап, маусымдық пасс тәжірибесі мен мұзкәмпиттер алуға болады.\n\nКүнделікті тапсырмалар күн сайын жаңарады. Оларды арнайы бустер арқылы да жаңартуға болады.\n\nМаусымдық пасс сатып алсаңыз, арнайы тапсырмалар да ашылады.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "bigCatchTournamentsVictories",
+      "source": "Побед в турнирах",
+      "original": "",
+      "translation": "Турнирлердегі жеңістер",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "bigCatchStoryLineSkipTimer",
+      "source": "Пропуск таймера",
+      "original": "",
+      "translation": "Күтуді өткізу",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "inventoryMailSubsectionLeftHand",
+      "source": "Лев. рука",
+      "original": "",
+      "translation": "Сол қол",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "predictionsBetsPossibleReward",
+      "source": "Возможный выигрыш",
+      "original": "",
+      "translation": "Ықтимал ұтыс",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "untranslated"
+      ]
+    },
+    {
+      "key": "arena_platform_colorname",
+      "source": "Встаньте на {platformColor} платформу",
+      "original": "{platformColo} платформаға тұрыңыз",
+      "translation": "{platformColor} платформаға тұрыңыз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "birthday_main_updates_in",
+      "source": "Обновится через: {time}",
+      "original": "Жаңарады: time",
+      "translation": "Жаңаруына: {time}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "chaosUpgradeText",
+      "source": "Вы улучшили {upgradeTitle} своего\nтранспортного средства до {upgradeLevel} уровня!",
+      "original": "Сіз өз көлігіңіздің upgradeTitle\nкөрсеткішін {upgradeLevel} деңгейге дейін жақсарттыңыз!",
+      "translation": "Сіз көлігіңіздегі «{upgradeTitle}» көрсеткішін\n{upgradeLevel} деңгейге дейін жақсарттыңыз!",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "dragRacingV2BuyDesc1",
+      "source": "Чертежи для {blueprintTitle}",
+      "original": "blueprintTitle үшін сызбалар",
+      "translation": "Сызбалар: {blueprintTitle}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "predictionsBuyCoinsMinError",
+      "source": "Нельзя купить меньше {min}",
+      "original": "min-нан аз сатып алуға болмайды",
+      "translation": "Сатып алудың ең аз мөлшері: {min}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "rustoreOfferBuyFor",
+      "source": "Купить за {price}",
+      "original": "price бағасына сатып алу",
+      "translation": "Сатып алу бағасы: {price}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "schAssignmentTrainerIntro",
+      "source": "Хочешь быть лучше всех? Так стань им!\n<g>Каждый час</g> по всей карте появляются около <g>{books} книг</g>!\nТебе нужно быть быстрее и ловчее всех, чтобы собрать их!\nСобираешь книги, приносишь их мне – получаешь награду.",
+      "original": "Бәрінен үздік болғың келе ме? Онда үздік бол!\n<g>Әр сағат сайын</g> бүкіл картада шамамен <g>books кітап</g> пайда болады!\nОларды жинау үшін бәрінен жылдам әрі епті болуың керек!\nКітаптарды жинап, маған әкелсең – сыйлық аласың.",
+      "translation": "Бәрінен үздік болғың келе ме? Онда үздік бол!\n<g>Әр сағат сайын</g> бүкіл картада шамамен <g>{books} кітап</g> пайда болады!\nОларды жинау үшін бәрінен жылдам әрі епті болуың керек!\nКітаптарды жинап, маған әкелсең – сыйлық аласың.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "schDuelsPointsAmount",
+      "source": "{points} ОЧКОВ",
+      "original": "ҰПАЙ",
+      "translation": "{points} ҰПАЙ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "schGiftPassConfirmQuestion",
+      "source": "Вы действительно хотите подарить {name}",
+      "original": "Сіз шынымен name сыйлағыңыз келе ме",
+      "translation": "Сыйлық беруді растайсыз ба: {name}?",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "schPassRewardLevelRequired",
+      "source": "Требуется {level}\nуровень пропуска",
+      "original": "Пасстың {leve}\nдеңгейі қажет",
+      "translation": "Пасстың {level}\nдеңгейі қажет",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "schStoreCasePossiblePrizes",
+      "source": "Возможные призы: {title}",
+      "original": "Мүмкін сыйлықтар: title",
+      "translation": "Ықтимал жүлделер: {title}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "schTutorialT2S1",
+      "source": "Следи за шкалой: {playerTeamText}.\nОчки накапливаются от действий всех участников фракции.\nЖми <g>Инфо о битве</g>, чтобы узнать детали правил\nи условия участия в дуэлях!",
+      "original": "Жолақты бақыла: playerTeamText.\nҰпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.\nДуэльдердің ережелері мен қатысу шарттарын білу үшін\n<g>Шайқас ақпараты</g> түймесін бас!",
+      "translation": "Жолақты бақыла: {playerTeamText}.\nҰпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.\nДуэльдердің ережелері мен қатысу шарттарын білу үшін\n<g>Шайқас ақпараты</g> түймесін бас!",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "placeholder_mismatch"
+      ]
+    },
+    {
+      "key": "laAuthorisationError",
+      "source": "Ошибка авторизации",
+      "original": "Avtorizatsiya xatosi",
+      "translation": "Авторизация қатесі",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "pauseSettingsSocialMedia",
+      "source": "ПРИВЯЗКА СОЦИАЛЬНЫХ СЕТЕЙ",
+      "original": "IJTIMOIY TARMOQNI BOG‘LASH",
+      "translation": "ӘЛЕУМЕТТІК ЖЕЛІЛЕРДІ БАЙЛАНЫСТЫРУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "settingsGameShowHud",
+      "source": "Отображение худа",
+      "original": "HUD’ni ko‘rsatish",
+      "translation": "HUD көрсету",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "donate_to_mail",
+      "source": "На почту",
+      "original": "Pochta bo‘limiga",
+      "translation": "Поштаға",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "arena_starting_health",
+      "source": "стартовое здоровье",
+      "original": "Standart salomatlik",
+      "translation": "Бастапқы денсаулық",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "bankTotalToPay",
+      "source": "Итого к оплате:",
+      "original": "Jami to‘lov:",
+      "translation": "Жалпы төлем сомасы:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "summerRushFreshCases",
+      "source": "Свежие кейсы",
+      "original": "Yangi qutilar",
+      "translation": "Жаңа кейстер",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "edu_tablet_purchase_item_lottery_ticket",
+      "source": "Лотерейный билет",
+      "original": "Lotereya chiptasi",
+      "translation": "Лотерея билеті",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "srv2endsIn",
+      "source": "СОБЫТИЕ ЗАКОНЧИТСЯ ЧЕРЕЗ:",
+      "original": "EVENT TUGASHIGA QOLDI:",
+      "translation": "ИВЕНТТІҢ АЯҚТАЛУЫНА:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "repeat",
+      "source": "Ещё раз",
+      "original": "Takrorlash",
+      "translation": "Қайталау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "inventoryEquipped",
+      "source": "Надето",
+      "original": "Equipped",
+      "translation": "Киілген",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "launcherSettingsDeleteAccountConfirm",
+      "source": "Для удаления игрового профиля\nприложение будет закрыто.\nПожалуйста, запустите его снова.",
+      "original": "Para excluir o perfil do jogo,\no aplicativo será fechado.\nPor favor, abra-o novamente.",
+      "translation": "Ойын профилін жою үшін\nқолданба жабылады.\nОны қайта іске қосыңыз.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "wrong_language"
+      ]
+    },
+    {
+      "key": "laBillingRetrying",
+      "source": "Не удаётся подключиться к {provider}. Повторная попытка…",
+      "original": "{provider}-ға қосылу мәселесі. Қайталау…",
+      "translation": "Қызметке қосылу мүмкін болмады: {provider}. Қайта қосылу…",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "laBillingUnavailable",
+      "source": "Оплата через {provider} недоступна на этом устройстве.",
+      "original": "Бұл құрылғыда {provider}-ға төлемі қолжетімді емес.",
+      "translation": "Бұл құрылғыда {provider} арқылы төлем жасау қолжетімді емес.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "newYearChapter",
+      "source": "АКТ {competition}",
+      "original": "{competition}-ға АКТІ",
+      "translation": "АКТ: {competition}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "predictionsBuyCoinsMaxError",
+      "source": "Нельзя купить больше {max}",
+      "original": "{max}-нан көп сатып алуға болмайды",
+      "translation": "Сатып алудың ең көп мөлшері: {max}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "rouletteBetText",
+      "source": "Вы действительно хотите сделать\nставку <g>{bet} GC</g> на <g>{x}X</g>?",
+      "original": "Сіз шынымен <g>{x}X</g> мәніне\n<g>{bet}-ға GC</g> ставка жасағыңыз келе ме?",
+      "translation": "<g>{x}X</g> нәтижесіне\n<g>{bet} GC</g> бәс тігуді растайсыз ба?",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "srv2needPassLevel",
+      "source": "Требуется\n{id} уровень пропуска",
+      "original": "Пропусктың\n{id}-ға деңгейі қажет",
+      "translation": "Пасстың қажетті\nдеңгейі: {id}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "userMenuReportsFromTo",
+      "source": "От {fromUser} на {toUser}",
+      "original": "{fromUser}-дан {toUser}-ға қарсы",
+      "translation": "Шағым: {fromUser} → {toUser}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "wheelOfFortuneBuyFor",
+      "source": "Купить за {price}",
+      "original": "{price}-ге сатып алу",
+      "translation": "Сатып алу бағасы: {price}",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "suffix_harmony"
+      ]
+    },
+    {
+      "key": "laUnknownNetworkError",
+      "source": "Неизвестная ошибка",
+      "original": "Неизвестная ошибка",
+      "translation": "Белгісіз желі қатесі",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "rm_title_73",
+      "source": "Напугать",
+      "original": "Напугать",
+      "translation": "Қорқыту",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "onex_bet_draw_suffix",
+      "source": "НИЧЬЯ",
+      "original": "НИЧЬЯ",
+      "translation": "ТЕҢ ОЙЫН",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "jungleTreasuresRecieveImmediately",
+      "source": "и получить предмет сразу",
+      "original": "и получить предмет сразу",
+      "translation": "және затты бірден алу",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "bankConfirmHouse",
+      "source": "Вы действительно хотите оплатить недвижимость: Дом\nна сумму",
+      "original": "Вы действительно хотите оплатить недвижимость: Дом\nна сумму",
+      "translation": "Үй үшін төлем жасағыңыз келетініне сенімдісіз бе?\nТөлем сомасы:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "summerRushAfkKickCountdown",
+      "source": "До исключения за АФК",
+      "original": "До исключения за АФК",
+      "translation": "AFK үшін шығарылуға дейін",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "edu_desc_hud_control_enter_vehicle",
+      "source": "Отлично, у тебя получилось открыть авто. Теперь сядь в него, нажав кнопку в правой части экрана.",
+      "original": "Отлично, у тебя получилось открыть авто. Теперь сядь в него, нажав кнопку в правой части экрана.",
+      "translation": "Жарайсың, көлікті аша алдың. Енді экранның оң жағындағы түймені басып, оған отыр.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "halloweenEnergyBank",
+      "source": "КОПИЛКА\nЭНЕРГИИ",
+      "original": "КОПИЛКА\nЭНЕРГИИ",
+      "translation": "ЭНЕРГИЯ\nҚОРЫ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "birthday_info_more_play",
+      "source": "Чем больше играешь - тем выше Ты и Твоя Команда!",
+      "original": "Чем больше играешь - тем выше Ты и Твоя Команда!",
+      "translation": "Көбірек ойнаған сайын өзің де, командаң да жоғарылайсыңдар!",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "footballTutorDesc31",
+      "source": "Для участия в матчах нужно топливо.",
+      "original": "Для участия в матчах нужно топливо.",
+      "translation": "Матчтарға қатысу үшін жанармай қажет.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "chaosStep3Part1Text",
+      "source": "Задания подскажут, чем заняться дальше,\nесли ты не знаешь, куда ехать. Просто выбери\nцель – и город сам найдёт способ проверить тебя.",
+      "original": "Задания подскажут, чем заняться дальше,\nесли ты не знаешь, куда ехать. Просто выбери\nцель – и город сам найдёт способ проверить тебя.",
+      "translation": "Қайда барарыңды білмесең,\nтапсырмалар әрі қарай не істеу керегін көрсетеді.\nМақсатты таңда — қала сені сынаудың жолын өзі табады.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "srv2needPremiumPass",
+      "source": "Необходим Premium Pass",
+      "original": "Необходим Premium Pass",
+      "translation": "Premium Pass қажет",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "schTutorialT8S0",
+      "source": "Нужны законные „чит-коды“ для быстрой победы?\nРаздел <g>Бустеры</g> — твой личный допинг-контроль! Здесь продаются\nспециальные улучшения, которые дадут тебе преимущество над\nсоперниками.",
+      "original": "Нужны законные „чит-коды“ для быстрой победы?\nРаздел <g>Бустеры</g> — твой личный допинг-контроль! Здесь продаются\nспециальные улучшения, которые дадут тебе преимущество над\nсоперниками.",
+      "translation": "Тез жеңуге көмектесетін заңды «чит-кодтар» керек пе?\n<g>Бустерлер</g> бөлімі — сенің жеке допинг-бақылауың! Мұнда\nқарсыластарыңнан басым түсуге көмектесетін\nарнайы жақсартулар сатылады.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "userMenuReportsAdminConclusionReviewed",
+      "source": "Заключение: адм.{adminName} (Рассмотрено)",
+      "original": "Заключение: адм.{adminName} (Рассмотрено)",
+      "translation": "Қорытынды: әкімші {adminName} (Қаралды)",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "pts_level",
+      "source": "%s ур.",
+      "original": "%s ур.",
+      "translation": "%s деңг.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "dragRacingTypeStreet",
+      "source": "Уличные Гонки",
+      "original": "Уличные Гонки",
+      "translation": "Көше жарыстары",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "same_as_source"
+      ]
+    },
+    {
+      "key": "accessories_type_other",
+      "source": "РАЗНОЕ",
+      "original": "Басқа режимін қосу және жалғастыру",
+      "translation": "БАСҚА",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "tune_buy_neon",
+      "source": "Цвет неона",
+      "original": "Неон түсі туралы толық ақпарат алу үшін",
+      "translation": "Неон түсі",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "detail_type_almaz",
+      "source": "Алмазная",
+      "original": "Гауһар режимін қосу және жалғастыру",
+      "translation": "Гауһар",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "summerRushRaceGasAfterPrefix",
+      "source": "через:",
+      "original": "кейін: режимін қосу және жалғастыру",
+      "translation": "кейін:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "newYearToStore",
+      "source": "В МАГАЗИН",
+      "original": "ДҮКЕНГЕ ӨТУ туралы толық ақпарат алу үшін",
+      "translation": "ДҮКЕНГЕ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "predictionsBetsTitle",
+      "source": "Прием Ставок",
+      "original": "Тігістер режимін қосу және жалғастыру",
+      "translation": "Бәс қабылдау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation",
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "predictionsBetsResultWin",
+      "source": "Победа",
+      "original": "Жеңіс режимін қосу және жалғастыру",
+      "translation": "Жеңіс",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "predictionsBracketWinner",
+      "source": "Победитель",
+      "original": "Жеңімпаз туралы толық ақпарат алу үшін",
+      "translation": "Жеңімпаз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "length_overflow"
+      ]
+    },
+    {
+      "key": "onex_profile_date",
+      "source": "Дата и время",
+      "original": "Күн жане уақыт",
+      "translation": "Күн және уақыт",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "laReauthorizationRequired",
+      "source": "Необходима повторная авторизация",
+      "original": "Кайта авторизация қажет",
+      "translation": "Қайта авторизация қажет",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "allowMicrophoneAccess",
+      "source": "Разрешите доступ к микрофону",
+      "original": "МИКРОФОНҒА РҰКСАТ БЕРІҢІЗ",
+      "translation": "МИКРОФОНҒА РҰҚСАТ БЕРІҢІЗ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "userMenuArenaMapSelection",
+      "source": "Выбор карты:",
+      "original": "Карта тандау:",
+      "translation": "Карта таңдау:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "tripleJackpotRewardAvailable",
+      "source": "Вам доступна награда",
+      "original": "Сізге сыйлық колжетімді",
+      "translation": "Сізге сыйлық қолжетімді",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "footballShopTicketsDesc0",
+      "source": "Введите количество билетов для покупки",
+      "original": "Сатып алынатын билеттер санын енгизіңіз",
+      "translation": "Сатып алынатын билеттер санын енгізіңіз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "drag_1every12",
+      "source": "1 раз каждые 12 часов",
+      "original": "12 сагат сайын 1 рет",
+      "translation": "12 сағат сайын 1 рет",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "alabuga_math_check_hint",
+      "source": "Проверьте примеры за 5 секунд ",
+      "original": "Мысалдарды 5 секундта тексеріңиз",
+      "translation": "Мысалдарды 5 секундта тексеріңіз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "questsV2CalendarAboutTaskTitle1",
+      "source": "Находите\nавтомобили",
+      "original": "Коліктерді\nТабыңыз",
+      "translation": "Көліктерді\nТабыңыз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "mesVehicleSelectTitle",
+      "source": "Выбор транспорта",
+      "original": "Көликті таңдау",
+      "translation": "Көлікті таңдау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "summerRushRaceNotEnoughGas",
+      "source": "У ВАС НЕДОСТАТОЧНО ТОПЛИВА, ЧТОБЫ ПРИНЯТЬ\nУЧАСТИЕ В ГОНКЕ.",
+      "original": "ЖАРЫСКА ҚАТЫСУҒА\nОТЫН ЖЕТПЕЙДІ.",
+      "translation": "ЖАРЫСҚА ҚАТЫСУҒА\nОТЫН ЖЕТПЕЙДІ.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "newYearSeasonQuests",
+      "source": "Сезонные задания",
+      "original": "Мезгілдик тапсырмалар",
+      "translation": "Мезгілдік тапсырмалар",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "dragRacingV2BuyBSlotTitle",
+      "source": "ДОП СЛОТ ДЛЯ ЧЕРТЕЖЕЙ",
+      "original": "СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫК",
+      "translation": "СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫҚ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "tp_create_title",
+      "source": "Создание продажи",
+      "original": "Сатуды кұру",
+      "translation": "Сатуды құру",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "superPrize",
+      "source": "Суперприз",
+      "original": "супер сыйлык",
+      "translation": "супер сыйлық",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "complaint_state_user_comment",
+      "source": "Получен комментарий",
+      "original": "Пікир алынды",
+      "translation": "Пікір алынды",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "pirate_treasury_map",
+      "source": "Карта сокровищ",
+      "original": "Казына картасы",
+      "translation": "Қазына картасы",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "chaosStep7Part0Text",
+      "source": "Здесь ты видишь своё место среди других\nучастников турнира. Чем больше REP\nи побед в PVP, тем выше ты поднимаешься.",
+      "original": "Мұнда сен турнирдің басқа\nқатысушылары арасындағы орныңды көресің. REP\nжәне PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілеcің.",
+      "translation": "Мұнда сен турнирдің басқа\nқатысушылары арасындағы орныңды көресің. REP\nжәне PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілесің.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "edu_hud_armor",
+      "source": "Состояние бронижилета",
+      "original": "Броньжилет күйі",
+      "translation": "Бронежилет күйі",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "bigCatchTutorialTextTaskFirst",
+      "source": "Начнем с основ.\nПереходи в раздел сюжетных заданий и\nбери первое поручение.\nЯ подготовил для тебя стартовый комплект\nснастей!",
+      "original": "Алдымен негіздерден бастайық.\nСюжет бөлімiне өтiп,\nалғашқы тапсырманы ал.\nМен сен үшін бастапқы\nқармақ жинағын дайындадым!",
+      "translation": "Алдымен негіздерден бастайық.\nСюжет бөліміне өтіп,\nалғашқы тапсырманы ал.\nМен сен үшін бастапқы\nқармақ жинағын дайындадым!",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "rm_title_10",
+      "source": "Имущество",
+      "original": "Таңдамалыларды баптау",
+      "translation": "Мүлік",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "item",
+      "source": "Предмет",
+      "original": "пән",
+      "translation": "Зат",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "objects",
+      "source": "Предметы",
+      "original": "пән",
+      "translation": "Заттар",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "marketplace_skins_tab",
+      "source": "СКИНЫ",
+      "original": "Терілер",
+      "translation": "СКИНДЕР",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "tp_skins",
+      "source": "Скины",
+      "original": "Терілер",
+      "translation": "Скиндер",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "drom_mileage",
+      "source": "Пробег",
+      "original": "жүгіру",
+      "translation": "Жүрілген жол",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "tune_buy_headlights_color",
+      "source": "Цвет фар",
+      "original": "Бағдаршамның түсі",
+      "translation": "Фара түсі",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "bank_org_1",
+      "source": "баланс\nфракции",
+      "original": "баланс\nфракциялар",
+      "translation": "Фракция\nбалансы",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "fraction_vehicles_desc",
+      "source": "Спавн авто \nорганизации",
+      "original": "Ұйымның автокүші",
+      "translation": "Ұйым көлігін\nшақыру",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "fraction_vehicles_spawn",
+      "source": "Заспавнить",
+      "original": "Ұйықтату",
+      "translation": "Көлікті шақыру",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "fraction_warns",
+      "source": "Выговоры",
+      "original": "Сынақтар",
+      "translation": "Сөгістер",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "fraction_take_warn",
+      "source": "Снять выговор",
+      "original": "Айыптауды алып тастау",
+      "translation": "Сөгісті алып тастау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "fraction_give_warn",
+      "source": "Выдать выговор",
+      "original": "Айыптау",
+      "translation": "Сөгіс беру",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "rm_title_25",
+      "source": "Выдать выговор",
+      "original": "Айыптау",
+      "translation": "Сөгіс беру",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "rm_title_26",
+      "source": "Снять выговор",
+      "original": "Айыптауды алып тастау",
+      "translation": "Сөгісті алып тастау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "family_upgrade_info",
+      "source": "Прокачка характеристик Вашей семьи",
+      "original": "Отбасыңыздың сипаттамаларын жіберу",
+      "translation": "Отбасыңыздың сипаттамаларын жақсарту",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "family_search",
+      "source": "Введите ник, ранг или ID игрока",
+      "original": "Ойыншының нигін, дәрежесін немесе идентификаторын енгізіңіз",
+      "translation": "Ойыншының никнеймін, дәрежесін немесе ID нөмірін енгізіңіз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "drom_choose_car",
+      "source": "Выбрать автомобиль",
+      "original": "Автомобильди таңдау",
+      "translation": "Көлікті таңдау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "bank_piggy_bank",
+      "source": "Копилка",
+      "original": "Қойма",
+      "translation": "Жинақ сандығы",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "blackListDailyTitle",
+      "source": "Ежедневный Вход",
+      "original": "Күнделік Кіру",
+      "translation": "Күнделікті кіру",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "orthography"
+      ]
+    },
+    {
+      "key": "dq_donate",
+      "source": "Донат",
+      "original": "Сыйлық",
+      "translation": "Донат",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "ct_inventory_is_full",
+      "source": "В инвентаре нет места!",
+      "original": "Инвентаризацияда орын жоқ!",
+      "translation": "Инвентарьда орын жоқ!",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "inventoryDeleteIrreversible",
+      "source": "Предмет будет безвозвратно удален из Вашего инвентаря.",
+      "original": "Бұл зат түгендеуіңізден біржола жойылады.",
+      "translation": "Зат инвентарыңыздан біржола жойылады.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "yandexPlusStatus2Description",
+      "source": "Нажмите кнопку «Забрать приз»\nи автомобиль появится в инвентаре",
+      "original": "«Сыйлықты алу» батырмасын басыңыз,\nсонда көлік түгендеуіңізде пайда болады",
+      "translation": "«Сыйлықты алу» түймесін басыңыз,\nсонда көлік инвентарыңызда пайда болады",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "choose",
+      "source": "Выбрать",
+      "original": "Аймақты таңдаңыз",
+      "translation": "Таңдау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "bones_select",
+      "source": "ВЫБРАТЬ",
+      "original": "Аймақты таңдаңыз",
+      "translation": "ТАҢДАУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "jungleTreasuresChose",
+      "source": "выбрать",
+      "original": "Аймақты таңдаңыз",
+      "translation": "Таңдау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "level_min",
+      "source": "Ур.",
+      "original": "Үр.",
+      "translation": "Деңг.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "halloweenWitchCity",
+      "source": "ГОРОД ВЕДЬМ",
+      "original": "СӘУЛЕЛЕР ҚАЛАСЫ",
+      "translation": "БАҚСЫЛАР ҚАЛАСЫ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "tp_houses",
+      "source": "Дома",
+      "original": "Үйде",
+      "translation": "Үйлер",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "expedition_congrats",
+      "source": "Поздравляем Вас с окончанием ивента",
+      "original": "Ивент аяқталғанымен құттықтаймыз",
+      "translation": "Ивенттің аяқталуымен құттықтаймыз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "race_start",
+      "source": "Начать гонку",
+      "original": "Жарыс басталуы",
+      "translation": "Жарысты бастау",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "dragRacingV2Grip",
+      "source": "Сцепление",
+      "original": "Ұстамдылық",
+      "translation": "Жолмен ілінісу",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "footballGrip",
+      "source": "Сцепление",
+      "original": "Жабысу",
+      "translation": "Жолмен ілінісу",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "inconsistent_term"
+      ]
+    },
+    {
+      "key": "hud_play_50_hours",
+      "source": "Отыграй 50 часов",
+      "original": "Сағат ойнатылды",
+      "translation": "50 сағат ойна",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "tablet_ad_info",
+      "source": "Длина объявления от 1 до 70 символов",
+      "original": "Хабарландырудың ұзындығы 3-тен 90 таңбаға дейін",
+      "translation": "Хабарландыру ұзындығы 1–70 таңба болуы керек",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "alabugaSchoolAllDay",
+      "source": "круглосуточно",
+      "original": "10.00-ден 22.00-ге дейін",
+      "translation": "Тәулік бойы",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "alabugaSchoolOpennedDesc",
+      "source": "Мы подготовили для тебя интересные три недели.\nНе пропускай уроки и по окончаннию ты сможешь получить приз.",
+      "original": "Саған қызықты ай дайындадық. \nСабақтан қалма, бітірген соң аттестат аласың.",
+      "translation": "Саған қызықты үш апта дайындадық.\nСабақтан қалма, оқуды аяқтаған соң сыйлық ала аласың.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "machine_translation_suspect"
+      ]
+    },
+    {
+      "key": "halloweenInfo9",
+      "source": "СБОР КОНФЕТ",
+      "original": "КӘНТ ЖИНАУ",
+      "translation": "КӘМПИТ ЖИНАУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "battlepass_cancel",
+      "source": "ОТМЕНА",
+      "original": "БАСТАУ",
+      "translation": "БАС ТАРТУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "jungleTreasuresCancel",
+      "source": "отмена",
+      "original": "БАСТАУ",
+      "translation": "БАС ТАРТУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "expedition_cancel",
+      "source": "Отмена",
+      "original": "БАСТАУ",
+      "translation": "БАС ТАРТУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "expeditionMapCancel",
+      "source": "Отмена",
+      "original": "БАСТАУ",
+      "translation": "БАС ТАРТУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "summerRushRaceCancel",
+      "source": "ОТМЕНА",
+      "original": "БАСТАУ",
+      "translation": "БАС ТАРТУ",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsTabBets",
+      "source": "Ставки",
+      "original": "Тігістер",
+      "translation": "Бәстер",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsHintText",
+      "source": "Ставь на победителей матчей.\nУспешные ставки дают рейтинг для наград акции.",
+      "original": "Матч жеңімпаздарына тігіс қой.\nСәтті тігістер акция сыйлықтарына рейтинг береді.",
+      "translation": "Матч жеңімпаздарына бәс тік.\nСәтті бәстер акция сыйлықтарына арналған рейтинг ұпайларын береді.",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsUntilEnd",
+      "source": "До окончания приема ставок:",
+      "original": "Тігіс жабылғанға дейін:",
+      "translation": "Бәс қабылдаудың аяқталуына:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsUntilStart",
+      "source": "До начала приема ставок:",
+      "original": "Тігіс басталғанға дейін:",
+      "translation": "Бәс қабылдаудың басталуына:",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsClosed",
+      "source": "Прием ставок закрыт",
+      "original": "Тігіс қабылдау жабық",
+      "translation": "Бәс қабылдау аяқталды",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsPlaced",
+      "source": "Ставка сделана",
+      "original": "Тігіс қойылды",
+      "translation": "Бәс тігілді",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsWon",
+      "source": "Ставка зашла!",
+      "original": "Тігіс ұтты!",
+      "translation": "Бәс ұтты!",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsLost",
+      "source": "Ставка не зашла",
+      "original": "Тігіс өтпеді",
+      "translation": "Бәс ұтпады",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsDidNotPlaceBet",
+      "source": "Вы не поставили ставку",
+      "original": "Сіз тігіс қоймадыңыз",
+      "translation": "Сіз бәс тікпедіңіз",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsMakeBet",
+      "source": "Поставить ставку",
+      "original": "Тігіс қою",
+      "translation": "Бәс тігу",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsSum",
+      "source": "Сумма ставки",
+      "original": "Тігіс сомасы",
+      "translation": "Бәс сомасы",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    },
+    {
+      "key": "predictionsBetsConfirm",
+      "source": "Подтвердить ставку?",
+      "original": "Тігісті растау?",
+      "translation": "Бәсті растайсыз ба?",
+      "reviewed_by_human": false,
+      "reviewer": "",
+      "reviewed_at": "",
+      "issue_types": [
+        "glossary_violation"
+      ]
+    }
+  ]
+}

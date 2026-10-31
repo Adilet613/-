@@ -1,0 +1,9 @@
+key,source_chars,original_kk_chars,fixed_kk_chars,fixed_not_longer_than_ru_chars,pixel_width_verified
+accessories_type_other,6,34,5,True,False
+detail_type_almaz,8,35,6,True,False
+newYearToStore,9,41,7,True,False
+predictionsBetsResultWin,6,34,5,True,False
+predictionsBetsTitle,12,37,12,True,False
+predictionsBracketWinner,10,38,8,True,False
+summerRushRaceGasAfterPrefix,6,35,6,True,False
+tune_buy_neon,10,39,9,True,False

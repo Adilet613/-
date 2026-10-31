@@ -1,0 +1,15 @@
+{
+  "source_messages_checked": 5478,
+  "target_messages": 5480,
+  "findings": 145,
+  "translation_changes": 144,
+  "glossary_entries": 87,
+  "schema": "PASS",
+  "ICU_and_placeholder_parity": "PASS",
+  "legacy_game_tokens": "PASS",
+  "Flutter_resource_identifier_preflight": "PASS",
+  "real_Flutter_compilation": "NOT_RUN",
+  "human_review": "CONFIRMED",
+  "native_speaker_verified_strings": 144,
+  "rendered_game_layout": "NOT_VERIFIED"
+}
