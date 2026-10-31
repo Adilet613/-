@@ -1,10 +1,10 @@
 {
   "name": "soz-localization-studio",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "description": "Qazaq Loc QA: shared browser and CLI localization checks",
-  "scripts": {"test": "node --test engine.test.mjs"},
+  "scripts": {"test": "node --test engine.test.mjs advanced.test.mjs"},
   "engines": {"node": ">=20"},
   "bin": {"locqa": "./locqa.mjs"}
 }

@@ -12,3 +12,5 @@
 @media(max-width:470px){.compare-text{font-size:16px}.evidence-confidence{font-size:8px}.editor-key{font-size:12px}.section-heading h2{font-size:16px}.heading-actions .button{font-size:11px}.main-footer{font-size:9px}}
 /* Keep explanatory text legible on the warm canvas. */
 .evidence-text{color:#62754f}.row-preview{color:#71825f}.row-type,.row-status{color:#71845d}.language-label{color:#7a8b69}.page-heading p,.section-heading p{color:#768464}.stat-top{color:#6d7c5e}.stat-bottom{color:#798765}.decision-note{color:#73865c}.placeholder-note{color:#7b8b69}.muted,.method-steps p,.method-limits p{color:#738660}.reviewer-input{color:#5d7548}.compare-text{color:#4e6241}.target .compare-text{color:#8e6a50}
+
+.ai-field{display:flex;flex-direction:column;gap:6px;font-size:11px;color:#71855d;margin:12px 0;flex:1;min-width:0}.ai-field input{width:100%;padding:10px;border:1px solid #dae3cb;border-radius:5px;background:#fafdf4;font:12px system-ui}.actions{display:flex;gap:10px;flex-wrap:wrap}.heading-actions{flex-wrap:wrap;justify-content:flex-end}

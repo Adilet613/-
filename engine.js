@@ -1,5 +1,5 @@
 /** SÖZ QA engine. Same module is imported by browser and Node CLI. */
-export const VERSION='1.0.0';
+export const VERSION='1.1.0';
 export const TYPES={untranslated:'Нет перевода',same_as_source:'Совпадает с RU',placeholder_mismatch:'Плейсхолдеры',plural_mismatch:'ICU / plural',glossary_violation:'Глоссарий',length_overflow:'Длина интерфейса',machine_translation_suspect:'Смысл / калька',inconsistent_term:'Разные термины',suffix_harmony:'Окончание переменной',orthography:'Орфография',wrong_language:'Другой язык'};
 const norm=s=>s.normalize('NFC').toLowerCase().trim();
 const equal=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
