@@ -1,0 +1,8 @@
+{
+  "allowIdentical": ["Example Brand"],
+  "allowedBlank": [],
+  "runtimeSuffixKeys": [],
+  "maxChars": {},
+  "escaping": false,
+  "locale": "kk"
+}
